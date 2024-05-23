@@ -1,0 +1,666 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|c:\\users\\qarib\\desktop\\assa-master\\spacdyna\\controllers\\accountcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:controllers\\accountcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|c:\\users\\qarib\\desktop\\assa-master\\spacdyna\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|c:\\users\\qarib\\desktop\\assa-master\\spacdyna\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|c:\\users\\qarib\\desktop\\assa-master\\spacdyna\\views\\accountcontroller1\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:views\\accountcontroller1\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|c:\\users\\qarib\\desktop\\assa-master\\spacdyna\\views\\accountcontroller1\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:views\\accountcontroller1\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|c:\\users\\qarib\\desktop\\assa-master\\spacdyna\\areas\\admin\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:areas\\admin\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\areas\\admin\\views\\card\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:areas\\admin\\views\\card\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|c:\\users\\qarib\\desktop\\assa-master\\spacdyna\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|c:\\users\\qarib\\desktop\\assa-master\\spacdyna\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\viewmodels\\updatecardsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:viewmodels\\updatecardsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\areas\\admin\\views\\card\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:areas\\admin\\views\\card\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Migrations\\20240522235403_CreateUsersTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240522235403_CreateUsersTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\dal\\dynacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:dal\\dynacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|c:\\users\\qarib\\desktop\\assa-master\\spacdyna\\areas\\admin\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:areas\\admin\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\viewmodels\\getcardsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:viewmodels\\getcardsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\areas\\admin\\views\\card\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:areas\\admin\\views\\card\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\viewmodels\\createcardsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:viewmodels\\createcardsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\viewcomponents\\footercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:viewcomponents\\footercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\viewcomponents\\headercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:viewcomponents\\headercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\views\\shared\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:views\\shared\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Migrations\\20240522062951_CreateCardTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:Migrations\\20240522062951_CreateCardTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Migrations\\20240522135136_CreateDbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:Migrations\\20240522135136_CreateDbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Migrations\\20240522134645_CreateDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:Migrations\\20240522134645_CreateDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Migrations\\20240522134522_CreateDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3573218-BB7A-4B81-A80C-A87C01EDDECA}|SpacDYNa.csproj|solutionrelative:Migrations\\20240522134522_CreateDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "ViewModels\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T02:53:13.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Views\\AccountController1\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\AccountController1\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Views\\AccountController1\\Login.cshtml",
+              "RelativeToolTip": "Views\\AccountController1\\Login.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAjwCYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T02:42:44.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "ViewModels\\RegisterVM.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T00:44:35.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Views\\AccountController1\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\AccountController1\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Views\\AccountController1\\Register.cshtml",
+              "RelativeToolTip": "Views\\AccountController1\\Register.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T00:35:54.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController1.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Controllers\\AccountController1.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController1.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Controllers\\AccountController1.cs",
+              "RelativeToolTip": "Controllers\\AccountController1.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwDsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T00:35:29.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:04:34.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T05:47:40.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:44:28.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T06:00:30.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Areas\\Admin\\Views\\Card\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Card\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Areas\\Admin\\Views\\Card\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Card\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T07:07:44.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T07:02:39.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAJ0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T06:05:02.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAowD0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T00:11:38.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAlwDMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T07:02:05.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:24:28.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:44:18.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240522235403_CreateUsersTable.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Migrations\\20240522235403_CreateUsersTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240522235403_CreateUsersTable.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Migrations\\20240522235403_CreateUsersTable.cs",
+              "RelativeToolTip": "Migrations\\20240522235403_CreateUsersTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:54:03.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T00:11:12.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Areas\\Admin\\Views\\Card\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Card\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Areas\\Admin\\Views\\Card\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Card\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T08:16:18.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateCardsVM.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\ViewModels\\UpdateCardsVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UpdateCardsVM.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\ViewModels\\UpdateCardsVM.cs",
+              "RelativeToolTip": "ViewModels\\UpdateCardsVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:12:42.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Areas\\Admin\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CardController.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Areas\\Admin\\Controllers\\CardController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CardController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:03:07.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "Models\\Card.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Models\\Card.cs",
+              "RelativeToolTip": "Models\\Card.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvwMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:25:52.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetCardsVM.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\ViewModels\\GetCardsVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\GetCardsVM.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\ViewModels\\GetCardsVM.cs",
+              "RelativeToolTip": "ViewModels\\GetCardsVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:11:50.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DYNaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\DAL\\DYNaContext.cs",
+              "RelativeDocumentMoniker": "DAL\\DYNaContext.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\DAL\\DYNaContext.cs",
+              "RelativeToolTip": "DAL\\DYNaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:15:00.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240522134645_CreateDb.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Migrations\\20240522134645_CreateDb.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240522134645_CreateDb.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Migrations\\20240522134645_CreateDb.cs",
+              "RelativeToolTip": "Migrations\\20240522134645_CreateDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:46:45.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240522135136_CreateDbd.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Migrations\\20240522135136_CreateDbd.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240522135136_CreateDbd.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Migrations\\20240522135136_CreateDbd.cs",
+              "RelativeToolTip": "Migrations\\20240522135136_CreateDbd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:51:36.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240522134522_CreateDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Migrations\\20240522134522_CreateDatabase.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240522134522_CreateDatabase.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Migrations\\20240522134522_CreateDatabase.cs",
+              "RelativeToolTip": "Migrations\\20240522134522_CreateDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:45:22.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Areas\\Admin\\Views\\Card\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Card\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Areas\\Admin\\Views\\Card\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Card\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T09:08:40.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-22T06:33:03.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T05:47:52.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T07:02:26.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateCardsVM.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\ViewModels\\CreateCardsVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CreateCardsVM.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\ViewModels\\CreateCardsVM.cs",
+              "RelativeToolTip": "ViewModels\\CreateCardsVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:12:24.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T06:57:14.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240522062951_CreateCardTable.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Migrations\\20240522062951_CreateCardTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240522062951_CreateCardTable.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Migrations\\20240522062951_CreateCardTable.cs",
+              "RelativeToolTip": "Migrations\\20240522062951_CreateCardTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:29:51.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FooterComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\ViewComponents\\FooterComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\FooterComponent.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\ViewComponents\\FooterComponent.cs",
+              "RelativeToolTip": "ViewComponents\\FooterComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:49:26.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HeaderComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\ViewComponents\\HeaderComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\HeaderComponent.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\ViewComponents\\HeaderComponent.cs",
+              "RelativeToolTip": "ViewComponents\\HeaderComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:51:23.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T06:00:04.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T05:41:34.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\assa-master\\SpacDYNa\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T05:41:12.379Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
